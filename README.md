@@ -8,7 +8,7 @@
 ## Key Features
 - **Multi-PDF Interaction:** Seamlessly upload and interact with multiple PDF files at once.
 - **Smart Querying:** Uses advanced NLP models to provide accurate responses to user queries about the PDF content.
-- **Streamlit UI:** Intuitive web interface built with Streamlit for enhanced user experience.
+- **Streamlit Web App:** Intuitive web interface built with Streamlit for enhanced user experience.
 - **Cloud Deployment:** Deployed on Streamlit Cloud for accessible, real-time interaction.
 
 ## Project Workflow
@@ -17,7 +17,7 @@
 3. **Query Processing:** 
    - Uses Google Gemini API and LangChain for processing user queries.
    - Delivers relevant responses based on content across all uploaded PDFs.
-4. **Response Display:** Displays answers and relevant excerpts directly in the Streamlit app.
+4. **Response Display:** Displays answers and relevant portion directly in the Streamlit app.
 
 ## Technologies Used
 - **APIs and Frameworks:** Google Gemini API, LangChain
